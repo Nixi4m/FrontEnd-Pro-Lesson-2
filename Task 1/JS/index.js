@@ -1,2 +1,2 @@
-let name = prompt('Як вас звати?')
+let name = prompt('Your name?')
 alert('Hello, ' + name + '! How are you?')
